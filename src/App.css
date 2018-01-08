@@ -1,0 +1,44 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background: url("http://bestanimations.com/Flags/Europe/Western/Scandinavia/norway/norwegian-flag-waing-gif-animation-1.gif");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position-y: 45%;
+	height: 150px;
+	padding: 20px;
+	color: white;
+}
+
+.bars {
+	border-radius: 25px;
+	margin: 10px;
+	width: 150px;
+	height: 70px;
+	font-size: 38px;
+}
+
+.searchbar {
+	padding: 20px;
+	border-radius: 25px;
+	background-color: white;
+	color: grey;
+	width: 70px;
+}
+
+td,
+th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+td:first-of-type > div {
+	height: 200px;
+	width: 100%;
+}
+
+.bars2 {
+	width: 450px;
+}
